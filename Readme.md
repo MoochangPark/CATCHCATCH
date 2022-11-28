@@ -1,6 +1,8 @@
 # CatchCatch
+ 
+![202899769-831e69d1-8fbf-4417-abfa-a4f66284f7cd](https://user-images.githubusercontent.com/119276371/204210377-0a67501c-21d0-4f9f-9cd1-8ee64327c863.gif)
 
-![Logo2](https://user-images.githubusercontent.com/52388470/202585594-5369004d-0750-4d15-b321-0150b668d02b.gif)
+
 
 ### UCC : [Link](https://drive.google.com/file/d/1-FeOOLFria1NnWZ3JuNyF8lZp3i6uGit/view?usp=sharing)
 
@@ -72,7 +74,8 @@
 
 ## 아키텍쳐
 
-![architecture](https://user-images.githubusercontent.com/52388470/202593855-4546e6bf-a30b-413b-9070-c20abb354aab.png)
+![202593855-4546e6bf-a30b-413b-9070-c20abb354aab](https://user-images.githubusercontent.com/119276371/204210608-b297b9ef-a9cd-42d1-bde5-de06db1d95d8.png)
+
 
 ## 협업
 
